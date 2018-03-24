@@ -1,7 +1,8 @@
-# vi.word2img
+## vi.word2img
 
 A tool to generate text image dataset for Deeplearning OCR project.
 
+### Demo
 ![](images/rang.jpg) ![](images/tram.jpg) ![](images/nam.jpg) ![](images/cung.jpg) ![](images/tu.jpg)  ![](images/day.jpg)
 
 ![](images/cua.jpg) ![](images/tin.jpg) ![](images/con2.jpg) ![](images/mot.jpg) ![](images/chut.jpg) ![](images/nay.jpg) ![](images/lam.jpg) ![](images/nghi.jpg)
