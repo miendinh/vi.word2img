@@ -1,1 +1,5 @@
 sftp-config.json
+.ftpconfig
+data/*
+fonts/*
+dict/*
